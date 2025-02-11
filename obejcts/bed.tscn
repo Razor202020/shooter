@@ -10,7 +10,7 @@ position = Vector2(2, -8)
 texture = ExtResource("1_nuuwy")
 
 [node name="pillow" type="Sprite2D" parent="."]
-position = Vector2(-404, -216)
+position = Vector2(212, -20)
 rotation = -0.0523599
 texture = ExtResource("2_8ywvf")
 
