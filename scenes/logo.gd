@@ -23,6 +23,6 @@ func _process(delta: float) -> void:
 	pos.x += speed
 	position = pos
 	
-	test_scale += 1
-	scale = Vector2(test_scale, test_scale)
+	#test_scale += 1
+	#scale = Vector2(test_scale, test_scale)
 	
